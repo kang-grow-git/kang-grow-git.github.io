@@ -4,4 +4,4 @@
 
 ## Experiments
 
-- [2026.03.04 - Damping Ratio Experiment](experiments/2026-03-04-damping/)
+- [2026.03.04 - Damping Ratio Experiment](experiments/2026_03_04_damping/)
